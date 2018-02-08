@@ -7,6 +7,7 @@ public class Test {
     }
 
     public static void main(String[] args) {
+
 int x=99;
 int y=1;
     }
